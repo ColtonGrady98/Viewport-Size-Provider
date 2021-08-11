@@ -10,4 +10,4 @@ There are two complete packages here:
 
 Note: the ViewportConsumer component is not necessary to provide viewport size values to your project, it is only a demonstration of how to access these values, for those unfamiliar.
 
-## Enjoy.
+Enjoy.
