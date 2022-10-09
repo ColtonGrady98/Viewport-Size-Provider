@@ -1,4 +1,4 @@
-# viewport_size_provider
+# Viewport Size Provider
 
 These files are meant to provide a way to add a useful viewport size provider to your React Typescript project in as modular a fashion as possible.
 
